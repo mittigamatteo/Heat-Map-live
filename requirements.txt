@@ -1,0 +1,7 @@
+streamlit
+pandas
+xlsxwriter
+pillow
+streamlit-image-coordinates
+plotly
+numpy
