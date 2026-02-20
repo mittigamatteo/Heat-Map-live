@@ -1,6 +1,6 @@
 streamlit
 pandas
-xlsxwriter
+XlsxWriter
 Pillow
 streamlit-image-coordinates
 plotly
